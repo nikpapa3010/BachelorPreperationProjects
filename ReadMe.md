@@ -10,7 +10,7 @@ Be warned, while the plugins work, they aren't bug-proofed, and they could creat
 
 In the future i will create a seperate git-repo for the Blueprint Reader if i finish it and bring it to a state i'm satisfyed with.
 
-For now, if you want to download either the Blueprint-Reader or the Blueprint-Highlighter, you can find them in the releases.
+For now, if you want to download either the Blueprint-Reader or the Blueprint-Highlighter, you can find them in the [releases](https://github.com/nikpapa3010/BachelorPreperationProjects/releases).
 
 **Warning, you can't have both plugins in your project at the same time!**
 
